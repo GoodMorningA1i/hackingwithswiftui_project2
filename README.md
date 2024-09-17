@@ -2,18 +2,13 @@
 
 ## About the Project
 
-A SwiftUI app that converts from one unit of time measurement to another.
+A flag guessing game! It includes features like keeping track of the user's score, resetting the game after reaching a max number of questions, styling the flag and the general UI of the screen.
 
-Follow-up to this project: https://github.com/GoodMorningA1i/hackingwithswiftui_project1
-
-This project covers topics like the basic structure of SwiftUI apps, Form, Section, NavigationStack, navigation bar titles, storing program state with @State and @FocusState, Picker, TextField vs Text, and ForEach.
+This project covers topics like using stack to arrange views (stacks like VStack, HStack, ZStack), Color, Frames, Buttons, Images, Gradients, and showing alert messages.
 
 ## Diagrams
 
-| **General Design** | **Demonstrating Keyboard with "Done" Functionality** |
-| :---: | :---: |
-| ![Simulator Screenshot - iPhone 15 Pro - 2024-09-10 at 11 54 48](https://github.com/user-attachments/assets/7bfc476a-bb7f-445f-9a6b-37699c03ec44) | ![Simulator Screenshot - iPhone 15 Pro - 2024-09-10 at 11 55 03](https://github.com/user-attachments/assets/7f7ccb0f-13e0-4848-a019-43cc1abddcc7) |
-
+<img src=https://github.com/user-attachments/assets/cc3edab6-7ac9-4a36-a248-e7a93b1cfc4a width="300">
 
 ### Built With
 
@@ -43,6 +38,8 @@ You should replace `your_username` and `project_name` respectively.
 
 ## Acknowledgements
 
-This project is from a tutorial series provided by Hacking With Swift. The tutorial series is called 100 Days of SwiftUI. 
+This project is from a tutorial series provided by Hacking With Swift. The tutorial series is called 100 Days of SwiftUI. Part 3 introduces challenges where I made additions with my own code.
 
-- Challenge Day: https://www.hackingwithswift.com/100/swiftui/19
+- Part 1: https://www.hackingwithswift.com/100/swiftui/20
+- Part 2: https://www.hackingwithswift.com/100/swiftui/21
+- Part 3: https://www.hackingwithswift.com/100/swiftui/22
